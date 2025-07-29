@@ -1,0 +1,6 @@
+[
+  { "id": "1", "name": "Coffee Day", "category": "Cafe","price":60, "cashback": 10 },
+  { "id": "2", "name": "Fit Gym", "category": "Fitness","price":1999, "cashback": 30 },
+  { "id": "3", "name": "The Salon", "category": "Beauty","price":200, "cashback": 15 },
+  { "id": "4", "name": "Pizza Point", "category": "Food","price":299, "cashback": 20 }
+]
